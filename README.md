@@ -51,6 +51,9 @@ bmeaut@erpc:~$ ./stream_in.sh
 
 ## Remote site (ahol a vezetőállás van)
 
+[Remote site eszközlista](eszkozlista_remote_site.md)
+
+
 ### Remote site teendők nap elején
 
 1. 5G CPE, monitorok, VR sisak, kormány, notebook összekötése, beüzemelése

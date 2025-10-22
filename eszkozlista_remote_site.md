@@ -21,3 +21,5 @@
 - VIK rollup
 - AUT rollup
 - Szimulátorszék
+
+[<< Tudnivalók, teendők (README)](README.md)
