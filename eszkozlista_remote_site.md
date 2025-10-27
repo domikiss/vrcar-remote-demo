@@ -23,5 +23,9 @@
   - Kétoldalú ragasztó (szükség esetére, pedál rögzítéshez)
   - Festőszalag (szükség esetére, Oculus belső érzékelő leragasztásához)
   - Duct Tape (szükség esetére)
+  - Kábelkötegelő
+  - Oldalcsípőfogó
+  - Sniccer
+  - Alkoholos filc
 
 [<< Tudnivalók, teendők (README)](README.md)
