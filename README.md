@@ -56,9 +56,10 @@ bmeaut@erpc:~$ ./stream_in.sh
 
 ### Remote site teendők nap elején
 
-1. 5G CPE, monitorok, VR sisak, kormány, notebook összekötése, beüzemelése
-2. A VR notebook Ethernet kábellel csatlakozzon az 5G CPE-hez!
-3. Demó elindítása, letesztelése
+1. Érdemes headset-et vinni magunkkal, hogy tudjuk hanghívásban tartani a kapcsolatot a Q épületbeliekkel. A Millenárison elvileg van wifi, ha megtudom az elérését, ideírom
+2. 5G CPE, monitorok, VR sisak, kormány, notebook összekötése, beüzemelése
+3. A VR notebook Ethernet kábellel csatlakozzon az 5G CPE-hez!
+4. Demó elindítása, letesztelése
 
 
 ### Demó elindítása
