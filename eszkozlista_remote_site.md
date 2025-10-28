@@ -17,6 +17,8 @@
 - 1 db VIK rollup
 - 1 db AUT rollup
 - 2 db 6-os elosztó
+- rádiós billentyűzet (Domié)
+- USB HUB (Domié)
 - Egyéb apró kellékek:
   - AA elemek (szükség esetére, Oculus kontrollerbe)
   - Fertőtlenítő kendő (VR sisak fertőtlenítéshez)
